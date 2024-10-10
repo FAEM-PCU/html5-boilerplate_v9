@@ -84,6 +84,36 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+/*fonts*/
+
+
+
+
+p {
+  color: #0000FF;
+  font-family: "Comic Neue", cursive;
+}
+
+.pink {
+  color: rgba(0, 255, 150, 0.3)
+}
+.big {
+  font-size: 2rem;
+}
+
+#first {
+  font-size: 1cm;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: -29px 12px 4px green;
+}
+#box {
+  width: 500px;
+  height: 300px;
+  background-image: linear-gradient(11deg, blue, yellow);
+  
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
